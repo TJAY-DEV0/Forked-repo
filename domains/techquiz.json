@@ -1,12 +1,9 @@
 {
-  "name": "techquiz",
-  "owner": "TJAY-DEV0",
-  "records": [
-    {
-      "type": "CNAME",
-      "name": "@",
-      "value": "techquizonline.onrender.com",
-      "ttl": 3600
-    }
-  ]
+  "owner": {
+    "username": "TJAY-DEV0"
+  },
+  "records": {
+    "URL": "https://techquizonline.onrender.com"
+  },
+  "proxied": true
 }
