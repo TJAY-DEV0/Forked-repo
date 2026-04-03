@@ -1,9 +1,12 @@
 {
-    "owner": {
-        "username": "TJAY-DEV0",
-        "email": "tijaniusman708@gmail.com"
-    },
-    "record": {
-        "CNAME": "techquizonline.onrender.com"
+  "name": "techquiz",
+  "owner": "TJAY-DEV0",
+  "records": [
+    {
+      "type": "CNAME",
+      "name": "@",
+      "value": "techquizonline.onrender.com",
+      "ttl": 3600
     }
+  ]
 }
